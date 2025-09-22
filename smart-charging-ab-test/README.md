@@ -45,6 +45,3 @@ Dieses Projekt simuliert ein produktorientiertes A/B-Experiment für eine Smart-
 - **Experiment design & inference:** explicit hypothesis, sample size considerations (commented), frequentist tests and bootstrap CIs.  
 - **Time-series / energy context:** session timestamps, dynamic pricing windows, and energy_kWh fields give a close analog to smart-charging datasets.  
 - **Optimization & next steps:** notebook suggestions for optimization (e.g., cost-minimization under user comfort constraints) are described in README.
-
-## Suggested CV line (German)
-„Projekt: `smart-charging-ab-test` — Produkt-A/B-Test für smartes Laden mit Python/SQL; erzeugte synthetische Energie-Sessions, führte Hypothesen-Tests (t-test, z-test, Bootstrap), erstellte Dashboards und dokumentierte Produktions-ready Code (Docker, CI). Link: github.com/USERNAME/smart-charging-ab-test“
