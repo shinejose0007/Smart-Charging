@@ -1,9 +1,9 @@
-# Smart-Charging A/B Test (simulated)
+# Smart-Charging A/B Test 
 
 **Short description.**  
 Dieses Projekt simuliert ein produktorientiertes A/B-Experiment für eine Smart-Charging-Funktion: eine Behandlung (neues Lade-Timing-Signal) vs. Kontrolle (Status quo). Ziel ist, die Wirkung auf Nutzerverhalten (z. B. Anteil der Ladevorgänge in Niedrigpreis-Zeiten und geladene kWh) zu messen, statistisch zu bewerten und Handlungsempfehlungen zu geben.
 
-**Why this is relevant to hiring managers at energy / product-data teams (e.g., RABOT).**  
+**Why this is relevant to hiring managers at energy / product-data teams**  
 - Demonstrates product analytics: hypothesis → KPI → experiment design → statistical conclusion → business recommendation.  
 - Shows ETL + reproducible data generation and analysis in Python, plus testing/CI.  
 - Contains time-series-like user session data and energy consumption metrics that map to smart-charging use cases.  
